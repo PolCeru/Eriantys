@@ -2,7 +2,7 @@
 
 This is the repository of main project for "_Progetto di Ingegneria del Software 2022_".
 
-Game rules are available on the [creator's website](https://www.craniocreations.it/wp-content/uploads/2021/11/Eriantys_ITA_bassa.pdf)
+Game available on the [creator's website](https://www.craniocreations.it/prodotto/eriantys), [Game rules](https://www.studiogiochi.com/files/studiogiochi.com/2022/02/Eriantys_Rules_EN_low.pdf)
 
 Tests line coverage: client 4%, controller 17%, message 54%, model 82%, network 0%
 
